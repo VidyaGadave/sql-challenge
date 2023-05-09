@@ -8,7 +8,7 @@ It contains below folders-
 2. EmployeeSQL - Contains ERD Diagram, Create table schema sql and sql queries
 3. Output - Contains output of 8 queries and its results
 
-Note : After creating tables, the data was imported using import prompt.
+Note : After creating tables, the data was imported using import prompt on pgAdmin.
 
 
 
